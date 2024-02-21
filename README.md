@@ -81,3 +81,4 @@ ax1.set_xticklabels(names, rotation=90, ha='right')
 plt.show()
 ```
 If we were to run the provided code, the code will analyze the first 2 pages and give us the following graph:
+![alt text](https://github.com/SHamkhalil/Books-scraper/blob/main/Graph.png?raw=true)

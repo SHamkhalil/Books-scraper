@@ -1,6 +1,6 @@
 First things first, we will have to call the libraries that we are going to use. These being:
 ```
-import matplotlib.pyplot as plt  # Data visualization \n
+import matplotlib.pyplot as plt  # Data visualization
 import requests
 from bs4 import BeautifulSoup  # Data extraction 
 ```
